@@ -66,4 +66,6 @@ streamlit run app.py
 ```
 
 ### 页面示例
-<img src="image.png" width="600" />          
+
+![应用界面](images/app_screenshot.png)
+<img src="images/app_screenshot.png" width="800" alt="RAG智能客服系统界面" />          
